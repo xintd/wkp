@@ -6,7 +6,7 @@ permalink: /about/
 
 ### 关于我
 
-![wkp]((https://wangkaiping.cn/images/wkp/img_8.png))
+![wkp](https://wangkaiping.cn/images/wkp/img_8.png)
 
 您好，我是[王开平](http://www.jxeduyun.com/App.EduSNS/Src/index.php?app=public&mod=PersonCenter&act=index&uid=1026219){:target="_blank"}，来自大余县池江中学的一名物理老师。
 ```
